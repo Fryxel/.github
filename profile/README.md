@@ -8,4 +8,4 @@ We’re Fryxel a brand new hosting company which offers quality services for nor
 At Fryxel Hosting, we offer a range of hosting services to suit your needs. Whether you're looking to host a game server, virtual or bare metal server, or a website, we've got you covered.
 
 ### Our website
-> [Fryxel](https://fryxel.com)
+> [Fryxel.com](https://fryxel.com)
